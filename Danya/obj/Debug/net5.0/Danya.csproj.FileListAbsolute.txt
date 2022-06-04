@@ -1,0 +1,16 @@
+C:\Users\scrim\source\repos\Danya\Danya\bin\Debug\net5.0\Danya.exe
+C:\Users\scrim\source\repos\Danya\Danya\bin\Debug\net5.0\Danya.deps.json
+C:\Users\scrim\source\repos\Danya\Danya\bin\Debug\net5.0\Danya.runtimeconfig.json
+C:\Users\scrim\source\repos\Danya\Danya\bin\Debug\net5.0\Danya.runtimeconfig.dev.json
+C:\Users\scrim\source\repos\Danya\Danya\bin\Debug\net5.0\Danya.dll
+C:\Users\scrim\source\repos\Danya\Danya\bin\Debug\net5.0\Danya.pdb
+C:\Users\scrim\source\repos\Danya\Danya\obj\Debug\net5.0\Danya.csproj.AssemblyReference.cache
+C:\Users\scrim\source\repos\Danya\Danya\obj\Debug\net5.0\Danya.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\scrim\source\repos\Danya\Danya\obj\Debug\net5.0\Danya.AssemblyInfoInputs.cache
+C:\Users\scrim\source\repos\Danya\Danya\obj\Debug\net5.0\Danya.AssemblyInfo.cs
+C:\Users\scrim\source\repos\Danya\Danya\obj\Debug\net5.0\Danya.csproj.CoreCompileInputs.cache
+C:\Users\scrim\source\repos\Danya\Danya\obj\Debug\net5.0\Danya.dll
+C:\Users\scrim\source\repos\Danya\Danya\obj\Debug\net5.0\refint\Danya.dll
+C:\Users\scrim\source\repos\Danya\Danya\obj\Debug\net5.0\Danya.pdb
+C:\Users\scrim\source\repos\Danya\Danya\obj\Debug\net5.0\Danya.genruntimeconfig.cache
+C:\Users\scrim\source\repos\Danya\Danya\obj\Debug\net5.0\ref\Danya.dll

@@ -1,0 +1,16 @@
+C:\Users\scrim\source\repos\Danya\BoxingAndUnboxing\bin\Debug\net5.0\BoxingAndUnboxing.exe
+C:\Users\scrim\source\repos\Danya\BoxingAndUnboxing\bin\Debug\net5.0\BoxingAndUnboxing.deps.json
+C:\Users\scrim\source\repos\Danya\BoxingAndUnboxing\bin\Debug\net5.0\BoxingAndUnboxing.runtimeconfig.json
+C:\Users\scrim\source\repos\Danya\BoxingAndUnboxing\bin\Debug\net5.0\BoxingAndUnboxing.runtimeconfig.dev.json
+C:\Users\scrim\source\repos\Danya\BoxingAndUnboxing\bin\Debug\net5.0\BoxingAndUnboxing.dll
+C:\Users\scrim\source\repos\Danya\BoxingAndUnboxing\bin\Debug\net5.0\BoxingAndUnboxing.pdb
+C:\Users\scrim\source\repos\Danya\BoxingAndUnboxing\obj\Debug\net5.0\BoxingAndUnboxing.csproj.AssemblyReference.cache
+C:\Users\scrim\source\repos\Danya\BoxingAndUnboxing\obj\Debug\net5.0\BoxingAndUnboxing.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\scrim\source\repos\Danya\BoxingAndUnboxing\obj\Debug\net5.0\BoxingAndUnboxing.AssemblyInfoInputs.cache
+C:\Users\scrim\source\repos\Danya\BoxingAndUnboxing\obj\Debug\net5.0\BoxingAndUnboxing.AssemblyInfo.cs
+C:\Users\scrim\source\repos\Danya\BoxingAndUnboxing\obj\Debug\net5.0\BoxingAndUnboxing.csproj.CoreCompileInputs.cache
+C:\Users\scrim\source\repos\Danya\BoxingAndUnboxing\obj\Debug\net5.0\BoxingAndUnboxing.dll
+C:\Users\scrim\source\repos\Danya\BoxingAndUnboxing\obj\Debug\net5.0\refint\BoxingAndUnboxing.dll
+C:\Users\scrim\source\repos\Danya\BoxingAndUnboxing\obj\Debug\net5.0\BoxingAndUnboxing.pdb
+C:\Users\scrim\source\repos\Danya\BoxingAndUnboxing\obj\Debug\net5.0\BoxingAndUnboxing.genruntimeconfig.cache
+C:\Users\scrim\source\repos\Danya\BoxingAndUnboxing\obj\Debug\net5.0\ref\BoxingAndUnboxing.dll

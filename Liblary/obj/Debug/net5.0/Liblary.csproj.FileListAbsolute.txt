@@ -1,0 +1,12 @@
+C:\Users\scrim\source\repos\Danya\Liblary\bin\Debug\net5.0\Liblary.deps.json
+C:\Users\scrim\source\repos\Danya\Liblary\bin\Debug\net5.0\Liblary.dll
+C:\Users\scrim\source\repos\Danya\Liblary\bin\Debug\net5.0\Liblary.pdb
+C:\Users\scrim\source\repos\Danya\Liblary\obj\Debug\net5.0\Liblary.csproj.AssemblyReference.cache
+C:\Users\scrim\source\repos\Danya\Liblary\obj\Debug\net5.0\Liblary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\scrim\source\repos\Danya\Liblary\obj\Debug\net5.0\Liblary.AssemblyInfoInputs.cache
+C:\Users\scrim\source\repos\Danya\Liblary\obj\Debug\net5.0\Liblary.AssemblyInfo.cs
+C:\Users\scrim\source\repos\Danya\Liblary\obj\Debug\net5.0\Liblary.csproj.CoreCompileInputs.cache
+C:\Users\scrim\source\repos\Danya\Liblary\obj\Debug\net5.0\Liblary.dll
+C:\Users\scrim\source\repos\Danya\Liblary\obj\Debug\net5.0\refint\Liblary.dll
+C:\Users\scrim\source\repos\Danya\Liblary\obj\Debug\net5.0\Liblary.pdb
+C:\Users\scrim\source\repos\Danya\Liblary\obj\Debug\net5.0\ref\Liblary.dll
